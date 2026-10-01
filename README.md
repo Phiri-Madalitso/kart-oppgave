@@ -1,5 +1,13 @@
 # Luftfartshinder - National Register of Airspace Obstacles
 
+> Group project in the course IS-202, based on a case from Kartverket (the Norwegian Mapping Authority). This repository is my fork of the [team repository](https://github.com/noanor/kart-oppgave).
+
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
+
 ## Project Description
 
 System for reporting and control of airspace obstacles to the National Register of Airspace Obstacles (NRL).
